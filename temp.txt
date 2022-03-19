@@ -1,0 +1,17 @@
+Topic Modeling for Aspect Identification and Opinion Analysis of Social Media
+
+The objective of this project is to design and develop an intelligent system (AI) - Social Media Opinion
+Analysis System that identifies opinion/sentiment of social media on a user given the specific interest of Bills
+from the House of Representatives, the Senate, and the Library of Congress. The opinion analysis system
+collects, process, and analyze machine-generated big data – a large corpus of unstructured texts from a
+social network platform Twitter to identify sentiment/opinion of the public posted on the social media
+the platform on specific Bills of interest per user given subjects from legislative data from the House of
+Representatives, the Senate, and the Library of Congress.
+
+Using Twitter API, Collect the Twitter Data Related to the Topics Selected by a Topic Selection
+Algorithm Based on Congress Bills Passed During Last 10 years. Pre-processing each tweet text in Natural Language Processing pipelines to extract POS, NER to identify sentiment indicators. Vocabulary development and Manipulation and retrieval of semi-structured data with a semi-structured database system. Knowledge Representations for Text Semantics along with ranking algorithms to quantify sentiment measures. Text learning methods with a deep learning AI architecture with classification process with Machine Learning Algorithms using BERT Language Model
+
+Pre-processing each tweet text in Natural Language Processing pipelines to extract
+POS, NER, and Dependency to identify sentiment indicators in each tweet text. Vocabulary Construction for the Collection of Twitter Data. Develop Knowledge Representations for Text Semantics. Ranking Algorithms to Quantify Sentiment Measures of Each Token, each Tweet Text, and the Collection of Twitter Data. Text Learning Methods with a Deep Learning Using BERT Language Model Classification Process with Machine Learning Algorithms Using BERT Language. Model to Develop a Model to Identify a Polarity of Each Tweet Text
+
+The project will present the summary of opinions (Polarity) of the Tweet data on specific bills in the aggregated sentiment polarity quantified by our Ranking Algorithm. The evaluation of the model accuracy of the system will be compared to some selected existing research work in the literature in Precision, Recall, and F Measures in Tables, Charts, Graphs. A paper will be published at a related conference in the area of Text Analytics. The outcome of research results might be used for a grant proposal if applicable.
