@@ -1,6 +1,5 @@
 import tweepy
 from tweepy import Stream
-import pandas as pd
 from dotenv import load_dotenv
 import os
 from pymongo import MongoClient
@@ -51,4 +50,4 @@ if __name__ == "__main__":
     stream = writeTweepyDataToFile(consumer_key=consumer_token, consumer_secret=consumer_token_secret,
                                    access_token=access_token, access_token_secret=access_token_secret)
     stream.filter(track=["Ukraine Russian war",
-                  "Russian Invasion"], languages=['en'])
+                         "Russian Invasion"], languages=['en'])
