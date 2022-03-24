@@ -72,8 +72,9 @@ def parse_data(cursor, stop_words):
         if counter > 15:
             break
         else:
-            print(item, word_dict[item])
-            counter += 1
+            with open("top_15_words.txt", "a") as f:
+                f.write(str(item) + " , " + str(word_dict[item]) + "\n")
+                counter += 1
 
 
 def find_num(word):

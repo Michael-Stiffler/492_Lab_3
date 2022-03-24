@@ -1,0 +1,16 @@
+russian , 5888
+ukraine , 4413
+war , 2380
+russia , 1812
+invasion , 1625
+force , 1385
+railway , 1125
+putin , 973
+lead , 968
+people , 963
+ukrainian , 880
+russians , 833
+line , 770
+arrive , 730
+belarusian , 618
+
